@@ -13,3 +13,4 @@ else:
 print("Informacion de estudiantes")
 for nombre, calificaciones in estudiantes.items():
     print(f"{nombre} tiene una calificacion de {calificaciones}")
+print(estudiantes)
